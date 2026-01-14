@@ -16,7 +16,7 @@ Pedal to Metal is a small Unity game project developed as part of Unity Learn.
 ## 📚 Purpose
 This project was created to practice Unity fundamentals and C# scripting.
 
-## ✈️ Plane Programming Challenge
+# ✈️ Plane Programming Challenge
 
 The Plane Programming Challenge is a Unity Learn project focused on implementing basic flight mechanics and camera behavior.
 
